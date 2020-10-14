@@ -5,7 +5,7 @@ public class Triangle extends Closed2DShapes{
 private double side1;
 private double side2;
 private double side3;	
-private char ch;
+private  char ch;
 public void surfaceArea()
 	{
 	double area=0;
