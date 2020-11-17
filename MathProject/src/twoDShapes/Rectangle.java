@@ -11,12 +11,12 @@ Rectangle(double len, double bre)
 public void surfaceArea()
 	{
 	double area=(length * breadth);
-	System.out.println("Surface Area is :"+area);
+	System.out.println("Surface Area of rectangle is:"+area);
 	}
 public void perimeter()
 	{
 	double peri=2* (length + breadth);
-	System.out.println("Perimeter is: "+ peri);
+	System.out.println("Perimeter of rectangle is: "+ peri);
 	}
 }
 
